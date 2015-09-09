@@ -1,5 +1,5 @@
-# Anticolonialhacking
-repository of documents about anti-colonial hacking
+# Anti-colonial Hacking
+Repository of documents about anti-colonial hacking and post-colonial hacking 
 
 Bibliography:
 Anderson, W. (2002). Introduction: Postcolonial Technoscience. Social Studies of Science.
